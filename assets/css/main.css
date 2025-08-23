@@ -2956,7 +2956,7 @@ START: Header CSS
   font-family: "Hind Madurai", sans-serif;
   color: var(--rr-color-common-white);
   display: block;
-  font-size: 14px;
+  font-size: 15px;
   padding: 35px 0;
   letter-spacing: 2px;
   font-weight: 600;
@@ -3455,7 +3455,7 @@ START: Header CSS
   line-height: 1;
   text-transform: capitalize;
   letter-spacing: 0;
-  font-size: 16px;
+  font-size: 25px;
 }
 .header-3 .primary-header-inner .header-menu-wrap ul li.menu-item-has-children a {
   padding-right: 0;
